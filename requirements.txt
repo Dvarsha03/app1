@@ -1,0 +1,5 @@
+streamlit
+azure-ai-vision-imageanalysis
+azure-ai-documentintelligence
+pillow
+requests
