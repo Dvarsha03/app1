@@ -1,0 +1,221 @@
+{
+  "caption": {
+    "text": "a group of people walking on a street",
+    "confidence": 0.85
+  },
+  "tags": [
+    {
+      "name": "clothing",
+      "confidence": 0.9975
+    },
+    {
+      "name": "building",
+      "confidence": 0.9968
+    },
+    {
+      "name": "footwear",
+      "confidence": 0.9953
+    },
+    {
+      "name": "outdoor",
+      "confidence": 0.9948
+    },
+    {
+      "name": "person",
+      "confidence": 0.9872
+    },
+    {
+      "name": "street",
+      "confidence": 0.9442
+    },
+    {
+      "name": "man",
+      "confidence": 0.9412
+    },
+    {
+      "name": "woman",
+      "confidence": 0.9396
+    },
+    {
+      "name": "people",
+      "confidence": 0.9175
+    },
+    {
+      "name": "road",
+      "confidence": 0.8963
+    },
+    {
+      "name": "handcart",
+      "confidence": 0.8944
+    },
+    {
+      "name": "city",
+      "confidence": 0.7621
+    },
+    {
+      "name": "ground",
+      "confidence": 0.7387
+    },
+    {
+      "name": "group",
+      "confidence": 0.6933
+    }
+  ],
+  "objects": [
+    {
+      "name": "person",
+      "confidence": 0.732,
+      "bounding_box": {
+        "x": 0,
+        "y": 3014,
+        "width": 333,
+        "height": 2669
+      }
+    },
+    {
+      "name": "person",
+      "confidence": 0.797,
+      "bounding_box": {
+        "x": 204,
+        "y": 3152,
+        "width": 572,
+        "height": 2447
+      }
+    },
+    {
+      "name": "person",
+      "confidence": 0.808,
+      "bounding_box": {
+        "x": 645,
+        "y": 3306,
+        "width": 460,
+        "height": 2109
+      }
+    },
+    {
+      "name": "person",
+      "confidence": 0.657,
+      "bounding_box": {
+        "x": 1210,
+        "y": 3496,
+        "width": 749,
+        "height": 1873
+      }
+    },
+    {
+      "name": "person",
+      "confidence": 0.722,
+      "bounding_box": {
+        "x": 2265,
+        "y": 3505,
+        "width": 589,
+        "height": 1910
+      }
+    },
+    {
+      "name": "person",
+      "confidence": 0.791,
+      "bounding_box": {
+        "x": 2721,
+        "y": 3689,
+        "width": 615,
+        "height": 1692
+      }
+    }
+  ],
+  "dense_captions": [
+    {
+      "region": 1,
+      "caption": "a group of people walking on a street",
+      "confidence": 0.85
+    },
+    {
+      "region": 2,
+      "caption": "a person wearing a black bag",
+      "confidence": 0.6774
+    },
+    {
+      "region": 3,
+      "caption": "a person wearing a floral skirt",
+      "confidence": 0.7461
+    },
+    {
+      "region": 4,
+      "caption": "a man pushing a large sack",
+      "confidence": 0.7458
+    },
+    {
+      "region": 5,
+      "caption": "a person holding a phone",
+      "confidence": 0.6547
+    },
+    {
+      "region": 6,
+      "caption": "a blurry image of a person's skirt",
+      "confidence": 0.788
+    },
+    {
+      "region": 7,
+      "caption": "a person wearing a black shirt",
+      "confidence": 0.7817
+    },
+    {
+      "region": 8,
+      "caption": "a person wearing a black shirt and a tan jacket",
+      "confidence": 0.7597
+    },
+    {
+      "region": 9,
+      "caption": "a blurry image of a couple of colored objects",
+      "confidence": 0.6144
+    },
+    {
+      "region": 10,
+      "caption": "a blurry image of a person holding a hand",
+      "confidence": 0.7482
+    }
+  ],
+  "people": [
+    {
+      "person": 1,
+      "confidence": 0.915
+    },
+    {
+      "person": 2,
+      "confidence": 0.9026
+    },
+    {
+      "person": 3,
+      "confidence": 0.9
+    },
+    {
+      "person": 4,
+      "confidence": 0.8833
+    },
+    {
+      "person": 5,
+      "confidence": 0.8387
+    },
+    {
+      "person": 6,
+      "confidence": 0.8174
+    },
+    {
+      "person": 7,
+      "confidence": 0.7847
+    },
+    {
+      "person": 8,
+      "confidence": 0.7096
+    },
+    {
+      "person": 9,
+      "confidence": 0.6769
+    }
+  ],
+  "ocr_text": [
+    "EMT ELEKTR\u0130K",
+    "UNITED",
+    "THRASHE"
+  ]
+}

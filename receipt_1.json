@@ -1,0 +1,47 @@
+{
+  "merchant": "WOOLWORTHS",
+  "date": "2026-05-30",
+  "total": "$N/A",
+  "items": [
+    {
+      "item": "Potato Sweet Gold",
+      "price": "\u2014"
+    },
+    {
+      "item": "Mandarin Amorette Seedless",
+      "price": "\u2014"
+    },
+    {
+      "item": "Lemon",
+      "price": "\u2014"
+    },
+    {
+      "item": "Banana Cavendish",
+      "price": "\u2014"
+    },
+    {
+      "item": "WWoolworths Paper Bag",
+      "price": "\u2014"
+    },
+    {
+      "item": "#Quilton Facial Tissues Extra Thick 955",
+      "price": "\u2014"
+    },
+    {
+      "item": "^MExtra Peppermint Bottle 649",
+      "price": "\u2014"
+    },
+    {
+      "item": "WW Lite Milk 2L",
+      "price": "\u2014"
+    },
+    {
+      "item": "Unknown",
+      "price": "\u2014"
+    },
+    {
+      "item": "WWW Soda Water 1.25L",
+      "price": "\u2014"
+    }
+  ]
+}
